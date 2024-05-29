@@ -30,4 +30,6 @@ func main() {
 
 	amount := menu.CalculateAmount(items)
 	fmt.Println(amount)
+
+	// generate bill
 }
